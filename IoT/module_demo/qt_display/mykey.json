@@ -1,0 +1,15 @@
+{
+    "endpoint": "a",
+    "port": 8883,
+    "cert_filepath": "qt_display/ggong2_telecom/certificates/ggong2.cert.pem",
+    "pri_key_filepath": "qt_display/ggong2_telecom/certificates/ggong2.private.key",
+    "ca_filepath": "qt_display/ggong2_telecom/certificates/root-CA.crt",
+    "client_id": "ggong2",
+    "topic_filter": "IoT/company/machine",
+    "my_topic": "IoT/company/machine/2",
+    "db_user": "a",
+    "db_password": "a",
+    "db_host": "a",
+    "db_name": "a",
+    "db_connection": "a"
+}
