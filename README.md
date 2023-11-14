@@ -1,6 +1,6 @@
  # GGONG
 
-![ggong_logo](./img/찐로고.png)
+![ggong_logo](img/찐로고.png)
 
 > [0. 프로젝트 개요](#0-프로젝트-개요)
 > 
@@ -45,90 +45,90 @@
 ✔ 사용 기술스택 : SpringBoot, React, Docker, AWS + (3. 시스템 아키텍처 참고)
 
 ## 1. IoT 기기
-![IoT](./img/IoT.png)
+![IoT](img/IoT.png)
 
 ## 2. 서비스 및 기능 소개
 
 ### 웹
 #### 로그인 / 가입
 
-![login](./img/초기화면.png)
+![login](img/초기화면.png)
 
 #### 메인화면
 
-![main](./img/메인페이지.png)
+![main](img/메인페이지.png)
 
-![큐알](./img/큐알.png)
+![큐알](img/큐알.png)
 
 #### 메뉴바
 
-![메뉴바화면](./img/메뉴바화면.png)
+![메뉴바화면](img/메뉴바화면.png)
 
 #### 마이페이지
 
-![마이페이지](./img/마이페이지.png)
+![마이페이지](img/마이페이지.png)
 
 #### 지도
 
-![지도페이지](./img/지도페이지.png)
+![지도페이지](img/지도페이지.png)
 
 #### 투표 화면
 
-![현재 진행중인 투표](./img/현재_진행중인_투표.png)
+![현재 진행중인 투표](img/현재_진행중인_투표.png)
 
-![지난투표](./img/지난투표.png)
+![지난투표](img/지난투표.png)
 
-![상세보기 연령별](./img/상세보기_연령별.png)
+![상세보기 연령별](img/상세보기_연령별.png)
 
 #### 포인트 관련 화면
 
-![포인트샵](./img/포인트샵.png)
+![포인트샵](img/포인트샵.png)
 
-![구매모달](./img/구매모달.png)
+![구매모달](img/구매모달.png)
 
-![포인트내역](./img/포인트내역.png)
+![포인트내역](img/포인트내역.png)
 
-![구매내역](./img/구매내역.png)
+![구매내역](img/구매내역.png)
 
 #### 통계
 
-![통계페이지](./img/통계페이지.png)
+![통계페이지](img/통계페이지.png)
 
 ### IoT
 #### 멤버화면
 
-![멤버화면](./img/멤버화면.png)
+![멤버화면](img/멤버화면.png)
 
 #### 카메라
 
-![카메라](./img/카메라.png)
+![카메라](img/카메라.png)
 
 #### 메인화면
 
-![메인화면](./img/메인화면.png)
+![메인화면](img/메인화면.png)
 
 ## 3. 시스템 아키텍처
 
-![servicearchitecture](./img/시스템아키텍처.PNG)
+![servicearchitecture](img/시스템아키텍처.PNG)
 
 
 ## 4. 컴포넌트 구성도
 
 **FrontEnd**
-![rdb-component](./img/component.png)
+![rdb-component](img/component.png)
 
 **BackEnd**
-![백컴포넌트1](./img/백컴포넌트1.PNG)
-![백컴포넌트2](./img/백컴포넌트2.PNG)
-![백컴포넌트3](./img/백컴포넌트3.PNG)
-![백컴포넌트4](./img/백컴포넌트4.PNG)
+![백컴포넌트1](img/백컴포넌트1.PNG)
+![백컴포넌트2](img/백컴포넌트2.PNG)
+![백컴포넌트3](img/백컴포넌트3.PNG)
+![백컴포넌트4](img/백컴포넌트4.PNG)
 
 ## 5. ERD
 
-![mysql erd](./img/erd.PNG)
+![mysql erd](img/erd.PNG)
 
 ## 6. git-flow
-![gitFlow](./img/gitFlow.png)
+![gitFlow](img/gitFlow.png)
 
 ## 7. 서비스 및 기술 특장점
 
