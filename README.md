@@ -1,6 +1,6 @@
  # GGONG
 
-![ggong_logo](./img/logo.png)
+![ggong_logo](./img/찐로고.png)
 
 > [0. 프로젝트 개요](#0-프로젝트-개요)
 > 
